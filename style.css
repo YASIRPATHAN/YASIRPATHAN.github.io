@@ -1,0 +1,111 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation bar styles */
+.navbar {
+  background-color: #ff7301;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.navdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+ul li {
+  margin-right: 20px;
+}
+
+ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Main header styles */
+header {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Main content styles */
+main {
+  padding: 20px;
+}
+
+/* Game section styles */
+.game {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.game h2 {
+  margin-top: 0;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.navre {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.navreview {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+ul li {
+  margin-right: 70px;
+}
+
+ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.video-container {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 30px;
+}
+video {
+  width: 300px;
+  height: 300px
+}
+.cont{
+  margin-left: 20pc;
+}
+
